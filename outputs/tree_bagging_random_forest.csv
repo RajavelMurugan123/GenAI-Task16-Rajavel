@@ -1,0 +1,4 @@
+Model,Train Accuracy,Test Accuracy
+Single Decision Tree,1.0,0.9298245614035088
+Bagging Classifier,1.0,0.9736842105263158
+Random Forest,1.0,0.9649122807017544

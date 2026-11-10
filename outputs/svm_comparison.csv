@@ -1,0 +1,3 @@
+Model,Test Accuracy
+SVM linear,0.9649122807017544
+SVM rbf,0.9736842105263158
